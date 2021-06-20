@@ -1,7 +1,7 @@
 # module_3_challenge
 Project Title
 
-This jupyter notebook sorts through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase, to determine arbitrage opportunities in Bitcoin and other cryptocurrencies. 
+This jupyter notebook sorts through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase, to determine arbitrage opportunities in Bitcoin.
 
 Technologies
 This project leverages python 3.3.8.5 with the following packages:
